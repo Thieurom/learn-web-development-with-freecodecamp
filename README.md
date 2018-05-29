@@ -29,6 +29,6 @@ All my completed front-end and back-end projects during the course of learning w
 |9|[Manage a Book Trading Club](https://github.com/Thieurom/fcc-buuktreid)|[buuktreid](https://buuktreid.herokuapp.com/)|Dynamic Web Application|Ruby on Rails + PostgreSQL|
 |10|[Build a Pinterest Clone](https://github.com/Thieurom/fcc-fotonbord)|[fotonbord](https://fotonbord.herokuapp.com/)|Dynamic Web Application|Ruby on Rails + PostgreSQL|
 
-### Certificatations
-- [Front End Development Certificatation](https://www.freecodecamp.org/thieurom/front-end-certification), certified on Nov 19, 2016
-- [Back End Development Certificatation](https://www.freecodecamp.org/thieurom/back-end-certification), certified on June 28, 2017
+### Certifications
+- [Front End Development Certification](https://www.freecodecamp.org/thieurom/front-end-certification), certified on Nov 19, 2016
+- [Back End Development Certification](https://www.freecodecamp.org/thieurom/back-end-certification), certified on June 28, 2017
